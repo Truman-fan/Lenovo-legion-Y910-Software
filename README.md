@@ -6,8 +6,7 @@
 │ 幻彩地带gamingzone.exe ：               Y910所属系列的游戏本自带机械键盘的键帽彩灯控制软件  
 │  
 ├─GamingZone ：                            Y空间  
-│&ensp;└─setup2.0.11.2.exe  
+│&ensp;&ensp;&ensp;&ensp;└─setup2.0.11.2.exe  
 │  
-└─ Razer ：                                雷云（雷蛇鼠标的控制软件）  
-&ensp;└─Razer Synapse  
-&ensp;&ensp;Razer Synapse.lnk  
+└─ Razer/Razer Synapse ：                  雷云（雷蛇鼠标的控制软件）  
+&ensp;&ensp;&ensp;&ensp;Razer Synapse.lnk  
